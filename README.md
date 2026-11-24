@@ -29,6 +29,8 @@ You may also see:
 
 The game starts full screen. F11 switches to a window and back.
 
+**The first launch is slow.** On a Mac's first launch the game prepares its graphics (it compiles its shaders), and the title says so. The screen can sit still for a minute or two before the main menu appears, and again when you load your first map. Leave it running. Later launches are quick.
+
 ## Playing online
 
 Everyone needs the **same version**. If the versions differ, the game says so and names both.
